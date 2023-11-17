@@ -1,4 +1,4 @@
-# MAD-EXP-5-Create-Your-Own-Content-Providers-to-get-Contacts-details
+# EXP-5-Create-Your-Own-Content-Providers-to-get-Contacts-details
 
 ## AIM:
 
@@ -133,12 +133,8 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-
-![image](https://github.com/Siddarthan999/MAD-EXP-5-Create-Your-Own-Content-Providers-to-get-Contacts-details/assets/91734840/2ca29669-80b7-40da-9bb1-3bebbe47531e)
-
-![image](https://github.com/Siddarthan999/MAD-EXP-5-Create-Your-Own-Content-Providers-to-get-Contacts-details/assets/91734840/a855f27d-287a-43f8-bfa2-89a24c55e059)
-
-![239692622-e597fe40-68a3-4eb6-ba61-835bfac4116e](https://github.com/Siddarthan999/MAD-EXP-5-Create-Your-Own-Content-Providers-to-get-Contacts-details/assets/91734840/bfc8e50f-4edd-4fbf-8217-4a126f98aa96)
-
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-5-mad/assets/143045415/419afcba-d641-4fd6-b837-df5e16991d02)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-5-mad/assets/143045415/63dcf65c-b1e6-4446-b24f-4a912d04bdeb)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-5-mad/assets/143045415/fe5c9439-cd0d-49a2-ad13-f358250dac12)
 ## RESULT
 Thus, a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
