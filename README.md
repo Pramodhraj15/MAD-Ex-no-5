@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text create your own content providers to get contacts details.
-Developed by: MUGILAN P
-Registration Number: 212221040107
+Developed by: PRAMODH R
+Registration Number: 212221040128
 */
 ```
 AndroidManifest.xml :
